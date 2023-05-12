@@ -1,0 +1,132 @@
+body {
+    margin: 0;
+    background:#2A2F4F;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.home {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: 'Verdana';
+    margin-bottom: 5px;
+    color: white;
+}
+
+
+#zero1 {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    background: #080001;
+    text-align: center;
+    padding: 15px ;
+    border-radius: 5px;
+    font-size: 80px;
+    width: 120px;
+    height: 80px;
+    margin-top: 0px;
+}
+    
+        
+.guest {
+   display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+    font-family: 'Verdana';
+    margin-bottom: 5px; 
+    color: white;
+  
+}
+
+#zero-2 {
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    color: #F94F6D;
+    background: #080001;
+    text-align: center;
+    padding: 15px;
+    border-radius: 5px;
+    font-size: 80px;
+    width: 100px;
+    margin-top: 0px;
+    width: 120px;
+    height: 80px;
+}
+
+.first-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-1 {
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  padding: 10px;
+  color: white;
+  border: 1px solid #9AABD8;
+  background: #2A2F4F;
+  border-radius: 5px;
+}
+
+.btn-3 {
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  padding: 10px;
+  color: white;
+  border: 1px solid #9AABD8;
+  background: #2A2F4F;
+  border-radius: 5px;
+}
+
+.btn-2 {
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  padding: 10px;
+  color: white;
+  border: 1px solid #9AABD8;
+  background: #2A2F4F;
+  border-radius: 5px;
+}
+
+
+.second-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-A {
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  padding: 10px;
+  color: white;
+  border: 1px solid #9AABD8;
+  background: #2A2F4F;
+  border-radius: 5px;
+}
+
+.btn-B {
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  padding: 10px;
+  color: white;
+  border: 1px solid #9AABD8;
+  background: #2A2F4F;
+  border-radius: 5px;
+}
+
+.btn-C {
+  font-family: 'Cursed Timer ULiL', sans-serif;
+  padding: 10px;
+  color: white;
+  border: 1px solid #9AABD8;
+  background: #2A2F4F;
+  border-radius: 5px; 
+}
+
